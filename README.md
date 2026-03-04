@@ -323,15 +323,5 @@ sudo systemctl daemon-reload
 sudo apt remove -y x11vnc
 ```
 
-### 13.4 你现在怎么修你 GitHub 上那份（可选）
-
-1. 回到 GitHub 编辑 `README.md`
-2. `Ctrl + A` 全选后删除
-3. 粘贴本教程完整内容
-4. 切到预览，确认 `## 02-准备` 等标题显示正常
-5. Commit
-
-sudo chmod 600 /etc/vnc/passwd
-
 
 
